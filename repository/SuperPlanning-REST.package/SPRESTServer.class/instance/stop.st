@@ -1,3 +1,0 @@
-stoping
-stop
-	teapotServer stop

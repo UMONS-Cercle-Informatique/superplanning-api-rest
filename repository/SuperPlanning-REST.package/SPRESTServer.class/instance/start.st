@@ -1,3 +1,0 @@
-starting
-start
-	teapotServer start
