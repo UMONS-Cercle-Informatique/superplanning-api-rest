@@ -1,0 +1,3 @@
+stoping
+stop
+	teapotServer stop
