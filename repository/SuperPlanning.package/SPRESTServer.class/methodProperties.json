@@ -2,11 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
-		"configurationFile" : "JulienDelplanque 12/2/2016 18:06",
+		"configuration" : "JulienDelplanque 12/2/2016 19:41",
 		"getTimeTableForSection:" : "JulienDelplanque 12/2/2016 18:40",
 		"getTimeTableForSectionAndCourse:" : "JulienDelplanque 12/2/2016 18:40",
-		"initialize" : "JulienDelplanque 12/2/2016 18:12",
+		"initialize" : "JulienDelplanque 12/2/2016 19:41",
 		"initializeRoutes" : "JulienDelplanque 12/2/2016 18:17",
-		"loadConfiguration" : "JulienDelplanque 12/2/2016 18:11",
 		"start" : "JulienDelplanque 11/21/2016 12:54",
 		"stop" : "JulienDelplanque 11/21/2016 12:54" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "SuperPlanning",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 12/2/2016 19:43",
+	"instvars" : [
+		"driver" ],
+	"name" : "SPDBManager",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

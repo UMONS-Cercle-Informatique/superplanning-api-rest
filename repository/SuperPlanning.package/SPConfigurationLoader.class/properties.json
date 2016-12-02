@@ -1,0 +1,14 @@
+{
+	"category" : "SuperPlanning",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 12/2/2016 19:36",
+	"instvars" : [
+		 ],
+	"name" : "SPConfigurationLoader",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

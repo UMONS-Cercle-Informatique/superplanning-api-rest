@@ -1,1 +1,2 @@
-(name 'SuperPlanning-JulienDelplanque.1' message 'Renamed package as SuperPlanning.' id 'bb6ccf6c-24a2-4272-856f-7a50802619cd' date '2 December 2016' time '7:32:53.390682 pm' author 'JulienDelplanque' ancestors () stepChildren ())
+(name 'SuperPlanning-JulienDelplanque.2' message 'Added separated object to load configuration file.Added DB manager.' id 'ac43d4b6-6eaa-498a-bbd6-f21178ba832e' date '2 December 2016' time '7:51:56.014608 pm' author 'JulienDelplanque' ancestors ((name 'SuperPlanning-JulienDelplanque.1' message 'Renamed package as SuperPlanning.
+' id 'ab9a7c65-a750-5a40-ac94-047a0c67a485' date '2 December 2016' time '7:32:53 pm' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())

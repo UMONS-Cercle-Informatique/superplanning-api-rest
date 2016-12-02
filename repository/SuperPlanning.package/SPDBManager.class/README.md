@@ -1,0 +1,1 @@
+I provide methods to connect the database and execute queries on it.

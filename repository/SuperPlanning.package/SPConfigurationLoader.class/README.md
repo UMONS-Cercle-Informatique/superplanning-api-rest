@@ -1,0 +1,1 @@
+I allow other objects to load the configuration file as a Dictionary using my class method.
